@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Verifixca21.05.25")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30e732754d4fdb14aa05a255a325d1be262fd044")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb47aceaa68744fea52503b6c8bd2f3d68592d69")]
 [assembly: System.Reflection.AssemblyProductAttribute("Verifixca21.05.25")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Verifixca21.05.25")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

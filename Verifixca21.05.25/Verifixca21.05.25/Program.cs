@@ -102,9 +102,17 @@ List<string> CalcolaPodio(List<string> lista)
         string[] persona = s.Split(';');
         if (min2 > min && int.Parse(persona[4]) < min2)
         {
-            min2 = int.Parse(persona[4]);
-            minP=persona[0]+" " + persona[1];
-            scuola=persona[3];
+            if (int.Parse(persona[4]) == 50)
+            {
+
+            }
+            else
+            {
+                min2 = int.Parse(persona[4]);
+                minP = persona[0] + " " + persona[1];
+                scuola = persona[3];
+            }
+            
         }
 
     }
@@ -116,9 +124,16 @@ List<string> CalcolaPodio(List<string> lista)
         string[] persona = s.Split(';');
         if (min3 > min2 && int.Parse(persona[4]) < min3)
         {
-            min2 = int.Parse(persona[4]);
-            minP = persona[0] + " " + persona[1];
-            scuola = persona[3];
+            if (int.Parse(persona[4]) == 52 || int.Parse(persona[4])==50)
+            {
+
+            }
+            else
+            {
+                min3 = int.Parse(persona[4]);
+                minP = persona[0] + " " + persona[1];
+                scuola = persona[3];
+            }
         }
 
     }

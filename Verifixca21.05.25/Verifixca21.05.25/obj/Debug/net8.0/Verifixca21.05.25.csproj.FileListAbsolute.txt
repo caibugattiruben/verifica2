@@ -12,3 +12,4 @@ C:\Users\caibugatti.ruben\Desktop\Verifica\Verifixca21.05.25\Verifixca21.05.25\o
 C:\Users\caibugatti.ruben\Desktop\Verifica\Verifixca21.05.25\Verifixca21.05.25\obj\Debug\net8.0\Verifixca21.05.25.pdb
 C:\Users\caibugatti.ruben\Desktop\Verifica\Verifixca21.05.25\Verifixca21.05.25\obj\Debug\net8.0\Verifixca21.05.25.genruntimeconfig.cache
 C:\Users\caibugatti.ruben\Desktop\Verifica\Verifixca21.05.25\Verifixca21.05.25\obj\Debug\net8.0\ref\Verifixca21.05.25.dll
+C:\Users\caibugatti.ruben\Desktop\Verifica\Verifixca21.05.25\Verifixca21.05.25\obj\Debug\net8.0\Verifixca21.05.25.sourcelink.json
