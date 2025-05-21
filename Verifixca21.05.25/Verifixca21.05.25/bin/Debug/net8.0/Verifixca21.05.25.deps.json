@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Verifixca21.05.25/1.0.0": {
+        "runtime": {
+          "Verifixca21.05.25.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Verifixca21.05.25/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
